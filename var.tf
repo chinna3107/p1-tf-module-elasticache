@@ -9,6 +9,6 @@ variable "port" {}
 variable "engine" {}
 variable "node_type" {}
 variable "num_cache_nodes" {}
-variable "parameter_group_name" {}
+#variable "parameter_group_name" {}
 variable "engine_version" {}
 
